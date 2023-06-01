@@ -2,6 +2,9 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
+## RESULTADO 
+![imagen de resultado](./images/resultado.PNG)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
